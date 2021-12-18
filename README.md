@@ -6,7 +6,7 @@
     --Drones (I own a Mavic 2 mini)<br/>
     --Hanging out with friends<br/>
     --Reading<br/>
-    --Escapades in my motorcicle<br/>
+    --Escapades on my motorcicle<br/>
 - 🌱 I’m currently learning ...<br/>
     --MERN Stack<br/>
 - 💞️ I’m looking to collaborate on ...<br/>
