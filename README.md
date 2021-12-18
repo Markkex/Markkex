@@ -1,19 +1,19 @@
-- 👋 Hi, I’m @Markkex
-- 👀 I’m interested in ...
-    --Coding
-    --Kayak
-    --Final Fantasy XIV
-    --Drones (I own a Mavic 2 mini)
-    --Hanging out with friends
-    --Reading
-    --Escapades in my motorcicle
-- 🌱 I’m currently learning ...
-    --MERN Stack
-- 💞️ I’m looking to collaborate on ...
-    --New projects that will help me improve my skills, i have no area in particular yet since i'm a noob at coding. :)
-- 📫 How to reach me ...
-  <a href="http://marcoavila.pt/">Personal Website</a>
-  <a href="https://www.linkedin.com/in/marco-andre-avila/">Linkedin</a>
+- 👋 Hi, I’m @Markkex<br/>
+- 👀 I’m interested in ... <br/>
+    --Coding<br/>
+    --Kayak<br/>
+    --Final Fantasy XIV<br/>
+    --Drones (I own a Mavic 2 mini)<br/>
+    --Hanging out with friends<br/>
+    --Reading<br/>
+    --Escapades in my motorcicle<br/>
+- 🌱 I’m currently learning ...<br/>
+    --MERN Stack<br/>
+- 💞️ I’m looking to collaborate on ...<br/>
+    --New projects that will help me improve my skills, i have no area in particular yet since i'm a noob at coding. :)<br/>
+- 📫 How to reach me ...<br/>
+  <a href="http://marcoavila.pt/">Personal Website</a><br/>
+  <a href="https://www.linkedin.com/in/marco-andre-avila/">Linkedin</a><br/>
 
 <!---
 Markkex/Markkex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
