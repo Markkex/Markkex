@@ -1,21 +1,10 @@
-- 👋 Hi, I’m @Markkex<br/>
-- 👀 I’m interested in ... <br/>
-    --Coding<br/>
-    --Kayak<br/>
-    --Final Fantasy XIV<br/>
-    --Drones (I own a Mavic 2 mini)<br/>
-    --Hanging out with friends<br/>
-    --Reading<br/>
-    --Escapades on my motorcicle<br/>
-- 🌱 I’m currently learning ...<br/>
-    --MERN Stack<br/>
-- 💞️ I’m looking to collaborate on ...<br/>
-    --New projects that will help me improve my skills, i have no area in particular yet since i'm a noob at coding. :)<br/>
-- 📫 How to reach me ...<br/>
-  <a href="http://marcoavila.pt/">Personal Website</a><br/>
-  <a href="https://www.linkedin.com/in/marco-andre-avila/">Linkedin</a><br/>
+# Hi, I'm Marco 👋
 
-<!---
-Markkex/Markkex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack Developer with nearly 5 years of experience building web applications
+in finance, telecom, and car rental.
+
+- 💼 Currently at The Coding Machine, working on a high-traffic audit platform
+- 🛠️ PHP, Symfony, Laravel, Vue.js, Nuxt, TypeScript, MySQL, Docker
+- 🔒 Most of my professional work lives in private client repositories
+
+📫 [LinkedIn](https://www.linkedin.com/in/marco-andre-avila/)
